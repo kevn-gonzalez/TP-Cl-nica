@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Dominio/Dominio.csproj" />
+  <Project Path="WebClinica/WebClinica.csproj" Id="9e8ff99a-cc58-4a67-a2a3-ece9147bebec" />
+</Solution>
