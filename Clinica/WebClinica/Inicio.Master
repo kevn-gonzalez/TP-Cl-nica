@@ -25,7 +25,7 @@
                         <div class="navbar-nav">
                             <a class="nav-link" href="#">Especialidades</a>
                             <a class="nav-link" href="PerfilMedico.aspx">Especialistas</a>
-                            <a class="nav-link" href="#">Pacientes</a>
+                            <a class="nav-link" href="RegistroPacientes.aspx">Pacientes</a>
                             <a class="nav-link" href="#">Turnos</a>
                         </div>
                     </div>

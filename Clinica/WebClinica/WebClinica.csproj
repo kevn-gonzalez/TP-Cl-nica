@@ -162,6 +162,7 @@
     </Compile>
     <Compile Include="Inicio.Master.cs">
       <DependentUpon>Inicio.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Inicio.Master.designer.cs">
       <DependentUpon>Inicio.Master</DependentUpon>
@@ -181,6 +182,13 @@
       <DependentUpon>PerfilMedico.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistroPacientes.aspx.cs">
+      <DependentUpon>RegistroPacientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RegistroPacientes.aspx.designer.cs">
+      <DependentUpon>RegistroPacientes.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
@@ -204,6 +212,7 @@
     <Content Include="Global.asax" />
     <Content Include="PagInicio.aspx" />
     <Content Include="PerfilMedico.aspx" />
+    <Content Include="RegistroPacientes.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
